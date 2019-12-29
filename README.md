@@ -1,1 +1,0 @@
-# Two-linked-loci-under-mutation-selection-balance-and-Muller-s-ratchet
